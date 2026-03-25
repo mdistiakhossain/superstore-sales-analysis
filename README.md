@@ -98,7 +98,7 @@ Based on what the data showed, here is what I would tell the business:
 
 | Tool | Purpose |
 |---|---|
-| Python 3.12 | Core language for the entire analysis |
+| Python  | Core language for the entire analysis |
 | Pandas | Data loading, cleaning and manipulation |
 | Matplotlib | Building and styling all visualizations |
 | Seaborn | Chart aesthetics and theme |
@@ -124,6 +124,5 @@ Based on what the data showed, here is what I would tell the business:
 ## About
 
 I am Md Istiak Hossain and I am building my skills in business data analytics. 
-There are more projects on the way.
 
-**LinkedIn:** [Connect with me]https://www.linkedin.com/in/istiak-hossain-/
+**LinkedIn:** https://www.linkedin.com/in/istiak-hossain-/
